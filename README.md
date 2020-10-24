@@ -64,6 +64,7 @@ My compiled list of web development resources.
 
 #### Reference
 * [BEM Cheatsheet](https://9elements.com/bem-cheat-sheet/)
+* [Front-end Checklist](https://frontendchecklist.io/)
 
 
 
