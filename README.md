@@ -392,6 +392,7 @@ sudo certbot certonly --manual --preferred-challenges=dns --server=https://acme-
 * [WebDevResources](https://webdevresources.info/)
 * [Undesign](https://undesign.learn.uno)
 * [Muzli](https://muz.li)
+* [Awwwards](https://www.awwwards.com/)
 
 
 
