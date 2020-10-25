@@ -107,7 +107,7 @@ My compiled list of web development resources.
 * [Material Icons](https://material.io/resources/icons/?icon=person&style=baseline)
 * [MDI Icons](https://materialdesignicons.com/)
 * [Fontello](http://fontello.com/)
-* [Feather] (https://feathericons.com/)
+* [Feather](https://feathericons.com/)
 
 #### Fonts
 * [Fontsquirrel](https://www.fontsquirrel.com/)
