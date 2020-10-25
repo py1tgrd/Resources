@@ -102,6 +102,7 @@ My compiled list of web development resources.
 * [Icons8 Animated Icons](https://icons8.com/animated-icons)
 
 #### Icon Fonts
+* [FavIcon generator](https://favicon.io/)
 * [Fontawesome](https://fontawesome.com/?from=io)
 * [Fontawesome (cheatsheet)](https://fontawesome.com/cheatsheet?from=io)
 * [Material Icons](https://material.io/resources/icons/?icon=person&style=baseline)
