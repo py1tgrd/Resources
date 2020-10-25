@@ -108,6 +108,7 @@ My compiled list of web development resources.
 * [MDI Icons](https://materialdesignicons.com/)
 * [Fontello](http://fontello.com/)
 * [Feather](https://feathericons.com/)
+* [Hero icons](https://heroicons.com/)
 
 #### Fonts
 * [Fontsquirrel](https://www.fontsquirrel.com/)
