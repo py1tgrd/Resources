@@ -143,6 +143,7 @@ My compiled list of web development resources.
 * [Tippy.js](https://atomiks.github.io/tippyjs/)
 * [Popper.js](https://popper.js.org/)
 * [Lodash](https://lodash.com/)
+* [Interact](https://interactjs.io/)
 
 #### Vue Component Frameworks
 * [Buefy (Bulma + Vue)](https://buefy.org/)
