@@ -146,6 +146,9 @@ My compiled list of web development resources.
 * [Popper.js](https://popper.js.org/)
 * [Lodash](https://lodash.com/)
 * [Interact](https://interactjs.io/)
+* [Word cloud](https://github.com/jasondavies/d3-cloud/)
+* [Three.js](https://threejs.org/)
+* [Animate on Scroll](https://github.com/michalsnik/aos/)
 
 #### Vue Component Frameworks
 * [Buefy (Bulma + Vue)](https://buefy.org/)
