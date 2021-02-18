@@ -151,6 +151,8 @@ My compiled list of web development resources.
 * [Animate on Scroll](https://github.com/michalsnik/aos/)
 * [Driver.js](https://kamranahmed.info/driver.js/)
 * [Mo.js](https://mojs.github.io/)
+* [Sortable.js](http://sortablejs.github.io/Sortable/)
+* [Handsfree.js](https://handsfree.js.org/)
 
 #### Vue Component Frameworks
 * [Buefy (Bulma + Vue)](https://buefy.org/)
