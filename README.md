@@ -149,6 +149,8 @@ My compiled list of web development resources.
 * [Word cloud](https://github.com/jasondavies/d3-cloud/)
 * [Three.js](https://threejs.org/)
 * [Animate on Scroll](https://github.com/michalsnik/aos/)
+* [Driver.js](https://kamranahmed.info/driver.js/)
+* [Mo.js](https://mojs.github.io/)
 
 #### Vue Component Frameworks
 * [Buefy (Bulma + Vue)](https://buefy.org/)
